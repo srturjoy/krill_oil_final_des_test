@@ -48,14 +48,12 @@ export function Footer() {
         <div id="privacy-policy" className="rounded-2xl border border-gold/20 p-5 text-sm text-muted-foreground">
           <h4 className="mb-3 font-semibold text-gold">Privacy Policy</h4>
           <p>
-            অর্ডার প্রসেস করার জন্য আমরা আপনার নাম, ফোন নাম্বার, ঠিকানা এবং প্রয়োজনীয় ডেলিভারি তথ্য সংগ্রহ করি।
-            আপনার তথ্য অনুমতি ছাড়া বিক্রি বা শেয়ার করা হয় না। সাইট পারফরম্যান্স ও বিজ্ঞাপন অপ্টিমাইজেশনের জন্য
-            cookies, analytics, meta pixel ব্যবহার হতে পারে।
+           অর্ডার প্রসেসিং ও ডেলিভারির জন্য প্রয়োজনীয় তথ্য নিরাপদভাবে ব্যবহৃত হয়। আপনার গোপনীয়তা ও তথ্য সুরক্ষা আমাদের কাছে গুরুত্বপূর্ণ।
           </p>
         </div>
 
         <p className="text-xs text-muted-foreground">
-          Disclaimer: এই পণ্য কোনো রোগ নির্ণয়, চিকিৎসা বা প্রতিরোধের বিকল্প নয়।
+          Disclaimer:এটি একটি স্বাস্থ্য সহায়ক ফুড সাপ্লিমেন্ট, নিয়মিত পুষ্টি সাপোর্টের জন্য ব্যবহৃত।
         </p>
 
         <p className="text-center text-xs text-muted-foreground">
