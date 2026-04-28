@@ -12,7 +12,6 @@ import { Reviews } from "@/components/sections/Reviews";
 import { Faq } from "@/components/sections/Faq";
 import { OrderPopup } from "@/components/sections/OrderPopup";
 import { StickyCTA } from "@/components/sections/StickyCTA";
-import { StickyCTA } from "some-path";
 import { Footer } from "@/components/sections/Footer";
 
 export const Route = createFileRoute("/")({
