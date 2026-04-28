@@ -44,15 +44,12 @@ function Index() {
         <OfferSection />
         <Reviews />
         <Faq />
-        <footer className="py-8 text-center text-xs text-muted-foreground border-t border-gold bg-[oklch(0.08_0.03_20)]">
-          © {new Date().getFullYear()} Antarctic Krill BD • সারা বাংলাদেশ ফ্রি ডেলিভারি
-        </footer>
+        <Footer />
         <StickyCTA />
         <OrderPopup />
       </main>
     </OrderProvider>
   );
 }
-<Footer />
 
 // ... other code ... 
